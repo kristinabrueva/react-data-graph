@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# What is this?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is my playground for some data visialisation using React and D3 because it's fun :)
 
 ## Available Scripts
 
