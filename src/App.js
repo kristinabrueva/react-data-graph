@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
-import BarChart from "./components/barChart";
+import BarChart from "./components/BarChart";
 
 const datas = [
   [60, 30, 30],
