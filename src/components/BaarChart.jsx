@@ -53,7 +53,7 @@ function BarChart({ width, height, data }) {
   };
 
   return (
-    <div className="chart">
+    <div className="chart" data-testid="barChart">
       <svg ref={ref}></svg>
     </div>
   );
